@@ -1,3 +1,2 @@
 # gRPC-test-app
-
-msimundza/gRPC-helloworld-app
+An app I've create to get familiar with gRPC, protobuf-ts, envoy, etc...
